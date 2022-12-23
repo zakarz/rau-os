@@ -11,6 +11,6 @@ int main()
     {
         arr[i].print();
     }
-
+//barev
     return 0;
 }
